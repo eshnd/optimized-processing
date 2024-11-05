@@ -10,3 +10,4 @@ hello, this is the processing engine which makes opengl in java a lot easier! th
 8. click ok
 9. apply changes and click ok again
 10. you can now run all processing methods using intelliJ or any other java editor without needing to use the provided IDE which isn't the greatest
+11. you can use the template file included as a starting point
