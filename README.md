@@ -6,7 +6,7 @@ hello, this is the processing engine which makes opengl in java a lot easier! th
 4. make an intelliJ project, then right click on your project's root directory and select "open module settings"
 5. click libraries on the left bar
 6. click "+" -> "java"
-7. select the opt_proc.jar file from this repo
+7. select the prose.jar file from this repo
 8. click ok
 9. apply changes and click ok again
 10. you can now run all processing methods using intelliJ or any other java editor without needing to use the provided IDE which isn't the greatest
