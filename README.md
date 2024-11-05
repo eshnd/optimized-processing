@@ -1,5 +1,5 @@
 # optimized-processing
-hello, this is the processing engine which makes opengl in java a lot easier! this is how to set it up in intelliJ
+processing engine but without the engine
 1. first, download intelliJ, and if you don't have root access (for macs), just launch it from dmg.     
 2. next, if you need it, get a free educational intelliJ license using your college or even high school email address using this form: https://www.jetbrains.com/shop/eform/students
 3. clone this git repo
