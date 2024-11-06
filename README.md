@@ -1,5 +1,6 @@
 # prose (optimized processing)
 processing engine but without the engine
+# instructions
 1. first, download intelliJ, and if you don't have root access (for macs), just launch it from dmg.     
 2. next, if you need it, get a free educational intelliJ license using your college or even high school email address using this form: https://www.jetbrains.com/shop/eform/students
 3. download the latest release from this github page and unzip it
